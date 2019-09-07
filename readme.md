@@ -2,6 +2,13 @@
 
 > A curated list of awesome things related to Cypress
 
+**Table of Contents**
+
+* [Official guide](https://docs.cypress.io/guides/overview/why-cypress.html)
+* [API Reference](https://docs.cypress.io/api/api/table-of-contents.html)
+* [GitHub Repo](https://github.com/cypress-io/cypress)
+* [Release Notes](https://github.com/cypress-io/cypress/releases)
+
 
 ## Contribute
 
