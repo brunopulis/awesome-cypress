@@ -8,20 +8,20 @@
 
 **Table of Contents**
 
-* [Official guide](https://docs.cypress.io/guides/overview/why-cypress.html)
-* [API Reference](https://docs.cypress.io/api/api/table-of-contents.html)
-* [GitHub Repo](https://github.com/cypress-io/cypress)
-* [Release Notes](https://github.com/cypress-io/cypress/releases)
-
+- [Official guide](https://docs.cypress.io/guides/overview/why-cypress.html)
+- [API Reference](https://docs.cypress.io/api/api/table-of-contents.html)
+- [GitHub Repo](https://github.com/cypress-io/cypress)
+- [Release Notes](https://github.com/cypress-io/cypress/releases)
+- [Webinars](topics/webinars.md)
+- [Blogs](topics/blogs.md)
+- [Talks](topics/talks.md)
+- [Podcasts](topics/podcasts.md)
+- [Screencasts](topics/screencasts.md)
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## License
 
-[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
-
-To the extent possible under law, Bruno Pulis has waived all copyright and
-related or neighboring rights to this work.
+This project is licensed under the MIT license - see the [LICENSE](LICENSE.md) for details.
