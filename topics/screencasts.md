@@ -1,4 +1,4 @@
-## Podcasts
+## Screencasts
 
 | Screencast | Person/Channel | Language |
 | ---        | ---    | ---      |
