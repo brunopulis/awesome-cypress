@@ -2,22 +2,17 @@
 
 | Talk | Person | Language |
 | --- | --- | --- |
-| [10 Simples Rules for Making My Site Accessible](http://pt.slideshare.net/HelenaZubkow/10-simple-rules-for-making-my-site-accessible) | [Helena Zubkow](https://twitter.com/misshelenasue) | EN |
-| [30 Minutes or Less: The Magic of Automated Accessibility Testing](http://marcysutton.github.io/a11y-automated-testing/) | [Marcy Sutton](https://twitter.com/marcysutton) | EN |
-| [Accessibility in pattern libraries](https://www.slideshare.net/maxdesign/accessibility-in-pattern-libraries/) | [Russ Weakley ](https://twitter.com/russmaxdesign) | EN |
-| [Accessibility: Where to start?](https://www.youtube.com/watch?v=byh6G3vViWM)| [Scott O'Hara](https://twitter.com/scottohara) | EN |
-| [Accessibility Debt](https://www.youtube.com/watch?v=BViy4ToaJZs) | [Robert DeLuca](github.com/Robdel12) | EN |
-| [A Saga dos 12 Tópicos de Acessibilidade](https://www.youtube.com/watch?v=RFg6XP6oluE) | [Reinaldo Ferraz](https://twitter.com/reinaldoferraz) | PT-BR |
-| [Acessibilidade na Web modo Jedi Master](https://www.youtube.com/watch?v=MMLQioPwbik) | [Reinaldo Ferraz](https://twitter.com/reinaldoferraz) | PT-BR |
-| [Acessibilidade na Web: Levando nosso conteúdo a todas as pessoas - (pt-br)](http://slides.com/yanmagale/acessibilidade-web/) | [Yan Magalhães](https://github.com/yanmagale) | PT-BR |
-| [Acessibilidade Web: Muito além da tag ALT - (pt-br)](https://www.youtube.com/watch?v=SzmAa5rS5RU&t=17s) | [Thiago Marques](https://github.com/althi) | PT-BR |
-| [Angular Accessibility](http://marcysutton.com/slides/angular-a11y-ng-europe/) | [Marcy Sutton](https://twitter.com/marcysutton) | EN |
-| [ARIA Accessibility, APIS coding like you give a damn ](http://www.slideshare.net/LeonieWatson/aria-accessibility-apis-coding-like-you-give-a-damn-2015) | [Léonie Watson](https://twitter.com/LeonieWatson) | EN |
-| [Building Accessible Applications: A Reasonable Approach](https://www.youtube.com/watch?v=qxvNXBT03AY) | [Melanie Sumner](https://github.com/MelSumner) | EN |
-| [Designing for visual accessibility](https://www.youtube.com/watch?v=BYh6658PCXc) | Jordan Dunn | EN |
-| [Frontend com Acessibilidade](https://www.youtube.com/watch?v=UzTVq7we84w) | [Horácio Soares](https://twitter.com/horaciosoares) and [Clécio Bachini](https://twitter.com/cbachini) | PT-BR |
-| [HTML Acessível](http://www.slideshare.net/reinaldoferraz/html-acessvel) | [Reinaldo Ferraz](https://twitter.com/reinaldoferraz) | PT-BR |
-| [The Modern Web and Accessibility](https://www.youtube.com/watch?v=KIruVNEi6mI) | [Victor Tsaran](https://twitter.com/vick08) | EN |
-| [Trabalhando com WCAG e WAI-ARIA de forma correta](http://slides.com/talitapagani/wcag-aria-webbr2015#/16) | [Talita Pagani](https://github.com/talitapagani) | PT-BR |
-| [WCAG is not scary anymore - A progressive approach to Website Accessibility](https://www.linkedin.com/pulse/wcag-scary-anymore-progressive-approach-website-herin-hentry?trk=pulse_spock-articles) | [Henri Hentry](https://www.linkedin.com/in/herinhentry/) | EN |
-
+| [Cypress.io Hot Seat Questions with Gleb Bahmutov](https://www.joecolantonio.com/testtalks/256-gleb-bahmutov/) | Joe Calantonio and Gleb Bahmutov | EN |
+| [This.JavaScript: State of Testing](https://www.youtube.com/watch?v=iycQpCFBASE) | Tracy Lee, Gil Tayar, James Evans, Kent C. Dodds, Gleb Bahmutov, Shai Reznik, Kevin Lamping, Rotem Mizrachi-Meidan | EN |
+| [Testing in JavaScript with Gil Tayar](https://devchat.tv/js-jabber/jsj-341-testing-in-javascript-with-gil-tayar/) | Aimee Knight, AJ O’Neal, Charles Max Wood, and Gil Tayar | EN |
+| [Cypress](https://blog.codepen.io/2018/10/16/195-cypress/)| Codepen | EN |
+| [Episode 3: Dan Wahlin on End to End Testing with Cypress.io](https://realtalkjavascript.simplecast.fm/e03e32ef) | Dan Wahlin, John Papa, and Ward Bell | EN |
+| [Cypress.io](https://thewebplatformpodcast.com/164-cypressio) | Brian Mann and Gleb Bahmutov | EN |
+| [JavaScript Testing Using Jest with Kent C. Dodds](https://testguild.com/podcasts/automation/195-javascript-testing-using-jest-with-kent-c-dodds/) | Joe Colantonio and Kent C. Dodds | EN |
+| [Using Cypress for end-to-end testing with Gleb Bahmutov](https://www.youtube.com/watch?v=zTHQqiu_y0Q&list=PLkp6BbeMCOm3TYAIPYkv1R8ESme8xlHVV&index=4) | Stefan Judis and Gleb Bahmutov | EN |
+| [Assert(js) panel: Kent C. Dodds, Justin Searls, Gleb Bahmutov and Brian Mann](https://www.youtube.com/watch?v=ltzNIOF_L3E&feature=youtu.be) | Kent C. Dodds, Justin Searls, Gleb Bahmutov and Brian Mann | EN |
+| [Test Automation Using Cypress.io with Brian Mann & Gleb Bahmutov](https://testguild.com/podcasts/automation/177-cyrpress-io-brian-mann-gleb-bahmutov/) | Joe Colantonio, Brian Mann, & Gleb Bahmutov | EN |
+| [Cypress.io and End-to-End Testing with Gleb Bahmutov](https://devchat.tv/adv-in-angular/aia-155-cypress-io-end-end-testing-gleb-bahmutov/) | Joe Eames, Lukas Ruebbelke, Charles Max Wood, and Gleb Bahmutov  | EN |
+| [Test all the things with Cypress](https://javascriptair.com/episodes/2016-09-21/) | Kent C. Dodds, Brian Mann, & Gleb Bahmutov  | EN |
+| [Cypress.io](https://devchat.tv/js-jabber/224-jsj-cypress-js-with-brian-mann/) | Aimee Knight, Charles Max Woods, Dave Smith, Joe Eames, & Brian Mann | EN |
+| [Dave Beck with Foundry 45 and Brian Mann with Cypress.io](https://businessradiox.com/podcast/atlanta-business-radio/dave-beck/) | Dave Beck & Brian Mann | EN |
