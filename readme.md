@@ -17,6 +17,7 @@
 - [Talks](topics/talks.md)
 - [Podcasts](topics/podcasts.md)
 - [Screencasts](topics/screencasts.md)
+- [Tools](topics/tools.md)
 
 ## Contribute
 
