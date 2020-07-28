@@ -1,4 +1,4 @@
-# Awesome Cypress [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Build Status](https://travis-ci.org/brunopulis/awesome-cypress.svg?branch=master)](https://travis-ci.org/brunopulis/awesome-cypress)
+# Awesome Cypress [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
 <p align="center">
   <img src="https://cloud.githubusercontent.com/assets/1268976/20607953/d7ae489c-b24a-11e6-9cc4-91c6c74c5e88.png"/>
