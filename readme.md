@@ -18,6 +18,7 @@
 - [Podcasts](topics/podcasts.md)
 - [Screencasts](topics/screencasts.md)
 - [Tools](topics/tools.md)
+- [Courses](topics/courses.md)
 
 ## Contribute
 
