@@ -8,9 +8,16 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+- Add a new section only when needed.
+- When you create a new section, add an item in the summary.
+- Add a `description`.
+- Add a `title` to the Table of Contents [see](readme.md).
+- Add a subsection using a third level header.
+- Put the new items in alphabetical order
+- Search previous issues before making a new one, avoid duplicates.
+- Check your spelling and grammar.
+- Make sure your text editor is set to remove trailing whitespace.
+- Send a Pull Request.
 
 Thank you for your suggestions!
 
