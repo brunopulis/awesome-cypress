@@ -1,5 +1,0 @@
-## Webinars
-
-| Title | Language | Author |
-| ----- | -------- | ------ |
-
