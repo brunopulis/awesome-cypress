@@ -58,6 +58,24 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 
 ### Plugins
 
+#### Authentication 
+
+- [Cypress Keycloak Commands](https://github.com/Fredx87/cypress-keycloak-commands) - Cypress commands for authenticate users with Keycloak Identity Provider.
+- [Cypress NTLM Auth](https://github.com/bjowes/cypress-ntlm-auth) - NTLM authentication support for Cypress.
+- [Cypress OTP](https://github.com/NoriSte/cypress-otp) - Valid OTP token generation for Cypress.
+- [Cypress Social Logins](https://github.com/lirantal/cypress-social-logins) - Cypress authentication flows using social network providers.
+
+#### Component Testing 
+
+- [Cypress Angular Unit Test](https://github.com/bahmutov/cypress-angular-unit-test) - Test Angular component using Cypress Test Runner.
+- [Cypress Angular Unit Test](https://github.com/bahmutov/cypress-angularjs-unit-test) - Unit test Angularjs code using Cypress Test Runner.
+- [Cypress Cycle Unit Test](https://github.com/bahmutov/cypress-cycle-unit-test) - Test Cycle.js components using Cypress Test Runner.
+- [Cypress Hyperapp unit test](https://github.com/bahmutov/cypress-hyperapp-unit-test) - Test Hyperapp components and applications using Cypress Test Runner.
+- [Cypress React unit test](https://github.com/bahmutov/cypress-react-unit-test) - Test React components using Cypress Test Runner.
+- [Cypress Svelte unit test](https://github.com/bahmutov/cypress-svelte-unit-test) - Test Svelte components using Cypress Test Runner.
+- [Cypress Vue unit test](https://github.com/bahmutov/cypress-vue-unit-test) - Test Vue.js components using Cypress Test Runner.
+
+#### Utilities
 - [Cypress terminal report](https://github.com/archfz/cypress-terminal-report)
 
 ### Containers
