@@ -20,6 +20,7 @@
 - [Official Docs](#official)
 - [Tools](#tools)
 - [Courses](#courses)
+- [Plugins](#plugins)
 - [Containers](#containers)
 - [Blogs](#blogs)
 - [Talks](#talks)
@@ -54,6 +55,10 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 - [Test Production Ready Apps with Cypress](https://egghead.io/courses/test-production-ready-apps-with-cypress)
 - [Testes automatizados com Cypress (básico)](https://www.udemy.com/course/testes-automatizados-com-cypress-basico/)
 - [Testes automatizados com Cypress (intermediário)](https://www.udemy.com/course/testes-automatizados-com-cypress-intermediario/)
+
+### Plugins
+
+- [Cypress terminal report](https://github.com/archfz/cypress-terminal-report)
 
 ### Containers
 
