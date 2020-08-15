@@ -40,8 +40,10 @@ Official references of Cypress.
 
 ### Tools
 
-- [Cypress Essencial Minmap](https://github.com/samlucax/cypress-essencial-mindmap) - An open-source mindmap with essentials tools - [Samuel Lucas](https://github.com/samlucax).
+- [Cypress Essencial Minmap](https://github.com/samlucax/cypress-essencial-mindmap) - An open-source mindmap with essentials tools - [Samuel Lucas](https://github.com/samlucax);
+- [Cypress commands](https://github.com/Lakitna/cypress-commands) - A collection of Cypress commands to extend and complement the defaults;
 - [sorry-cypress](https://github.com/agoldis/sorry-cypress/) - An open-source alternative to cypress dashboard - [Andrew Goldis](https://github.com/agoldis).
+
 
 ### Courses
 
