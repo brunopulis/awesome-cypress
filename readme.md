@@ -17,16 +17,21 @@
 
 ## Contents
 
-- [Official Docs](#official)
-- [Tools](#tools)
-- [Courses](#courses)
-- [Plugins](#plugins)
-- [Containers](#containers)
-- [Blogs](#blogs)
-- [Talks](#talks)
-- [Podcasts](#podcasts)
-- [Screencasts](#screencasts)
-- [Webinars](#webinars)
+- [Awesome Cypress](#awesome-cypress)
+  - [Contents](#contents)
+    - [Official](#official)
+    - [Tools](#tools)
+    - [Courses](#courses)
+    - [Plugins](#plugins)
+      - [Authentication](#authentication)
+      - [Component Testing](#component-testing)
+      - [Utilities](#utilities)
+    - [Containers](#containers)
+    - [Blogs](#blogs)
+    - [Talks](#talks)
+    - [Podcasts](#podcasts)
+    - [Screencasts](#screencasts)
+    - [Webinars](#webinars)
 
 ### Official
 
@@ -42,7 +47,8 @@ Official references of Cypress.
 
 - [Cypress Essencial Minmap](https://github.com/samlucax/cypress-essencial-mindmap) - An open-source mindmap with essentials tools - [Samuel Lucas](https://github.com/samlucax);
 - [Cypress commands](https://github.com/Lakitna/cypress-commands) - A collection of Cypress commands to extend and complement the defaults;
-- [sorry-cypress](https://github.com/agoldis/sorry-cypress/) - An open-source alternative to cypress dashboard - [Andrew Goldis](https://github.com/agoldis).
+- [sorry-cypress](https://github.com/agoldis/sorry-cypress/) - An open-source alternative to cypress dashboard - [Andrew Goldis](https://github.com/agoldis);
+- [cypress-wait-until](https://github.com/NoriSte/cypress-wait-until) - Adds waiting power to virtually everything. Use this plugin to wait for everything not expected by [Cypress wait](https://docs.cypress.io/api/commands/wait.html#Syntax) - [Stefano Magni](https://github.com/NoriSte).
 
 
 ### Courses
