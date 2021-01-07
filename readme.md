@@ -45,10 +45,12 @@ Official references of Cypress.
 
 ### Tools
 
+- [Cypress Commands](https://github.com/Lakitna/cypress-commands) - A collection of Cypress commands to extend and complement the defaults;
 - [Cypress Essencial Minmap](https://github.com/samlucax/cypress-essencial-mindmap) - An open-source mindmap with essentials tools - [Samuel Lucas](https://github.com/samlucax);
-- [Cypress commands](https://github.com/Lakitna/cypress-commands) - A collection of Cypress commands to extend and complement the defaults;
-- [sorry-cypress](https://github.com/agoldis/sorry-cypress/) - An open-source alternative to cypress dashboard - [Andrew Goldis](https://github.com/agoldis);
-- [cypress-wait-until](https://github.com/NoriSte/cypress-wait-until) - Adds waiting power to virtually everything. Use this plugin to wait for everything not expected by [Cypress wait](https://docs.cypress.io/api/commands/wait.html#Syntax) - [Stefano Magni](https://github.com/NoriSte).
+- [Cypress Parallel Specs Locally](https://github.com/Shelex/cypress-parallel-specs-locally) - About
+Script for parallel Cypress specs execution locally - [Shelex Oleksandr Shevtsov](https://github.com/Shelex/)
+- [Cypress Wait Until](https://github.com/NoriSte/cypress-wait-until) - Adds waiting power to virtually everything. Use this plugin to wait for everything not expected by [Cypress wait](https://docs.cypress.io/api/commands/wait.html#Syntax) - [Stefano Magni](https://github.com/NoriSte).
+- [Sorry Cypress](https://github.com/agoldis/sorry-cypress/) - An open-source alternative to cypress dashboard - [Andrew Goldis](https://github.com/agoldis);
 
 
 ### Courses
@@ -58,11 +60,11 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 - [Curso de End to End Testing con Cypress](https://platzi.com/cursos/testing-cypress/)
 - [Introduction to Cypress](https://testautomationu.applitools.com/cypress-tutorial/)
 - [Test Automation met Cypress](https://training.xebia.com/quality-test-automation/test-automation-using-cypress)
-- [Test automation with Cypress (intermediate)](https://www.udemy.com/course/test-automation-with-cypress-intermediate/)
 - [Test automation with Cypress basic](https://www.udemy.com/course/test-automation-with-cypress-basic/)
-- [Test Production Ready Apps with Cypress](https://egghead.io/courses/test-production-ready-apps-with-cypress)
+- [Test automation with Cypress (intermediate)](https://www.udemy.com/course/test-automation-with-cypress-intermediate/)
 - [Testes automatizados com Cypress (básico)](https://www.udemy.com/course/testes-automatizados-com-cypress-basico/)
 - [Testes automatizados com Cypress (intermediário)](https://www.udemy.com/course/testes-automatizados-com-cypress-intermediario/)
+- [Test Production Ready Apps with Cypress](https://egghead.io/courses/test-production-ready-apps-with-cypress)
 
 ### Plugins
 
