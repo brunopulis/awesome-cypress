@@ -103,7 +103,7 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 ### Podcasts
 
 - [Assert(js) panel: Kent C. Dodds, Justin Searls, Gleb Bahmutov and Brian Mann](https://www.youtube.com/watch?v=ltzNIOF_L3E&feature=youtu.be) - Published on [#hashbang](https://www.youtube.com/playlist?list=PLZ66c9_z3umOuPSGsTu3mfzt6PGZeUyQZ).
-- [Big Testing in JavaScript](https://frontsidethepodcast.simplecast.fm/20b2f6da) - Published on [The Frontside Podcast](https://frontsidethepodcast.simplecast.fm/)
+- [Big Testing in JavaScript](https://frontside.com/podcast/090-big-testing-in-java-script/) - Published on [The Frontside Podcast](https://frontside.com/blog)
 - [Cypress.io and End-to-End Testing with Gleb Bahmutov](https://devchat.tv/adv-in-angular/aia-155-cypress-io-end-end-testing-gleb-bahmutov/) - Published on [Adventures in Angular](https://devchat.tv/adv-in-angular).
 - [Cypress.io Hot Seat Questions with Gleb Bahmutov](https://www.joecolantonio.com/testtalks/256-gleb-bahmutov/) - Published on [TestTalks](https://joecolantonio.com/testtalks/).
 - [Cypress.io](https://devchat.tv/js-jabber/224-jsj-cypress-js-with-brian-mann/) - Published on [JavaScript Jabber](https://devchat.tv/podcasts/js-jabber/)
