@@ -48,9 +48,9 @@ Official references of Cypress.
 - [Cypress Commands](https://github.com/Lakitna/cypress-commands) - A collection of Cypress commands to extend and complement the defaults;
 - [Cypress Essencial Minmap](https://github.com/samlucax/cypress-essencial-mindmap) - An open-source mindmap with essentials tools - [Samuel Lucas](https://github.com/samlucax);
 - [Cypress Parallel Specs Locally](https://github.com/Shelex/cypress-parallel-specs-locally) - About
-Script for parallel Cypress specs execution locally - [Shelex Oleksandr Shevtsov](https://github.com/Shelex/)
 - [Cypress Wait Until](https://github.com/NoriSte/cypress-wait-until) - Adds waiting power to virtually everything. Use this plugin to wait for everything not expected by [Cypress wait](https://docs.cypress.io/api/commands/wait.html#Syntax) - [Stefano Magni](https://github.com/NoriSte).
 - [Sorry Cypress](https://github.com/agoldis/sorry-cypress/) - An open-source alternative to cypress dashboard - [Andrew Goldis](https://github.com/agoldis);
+Script for parallel Cypress specs execution locally - [Shelex Oleksandr Shevtsov](https://github.com/Shelex/)
 
 
 ### Courses
@@ -60,11 +60,11 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 - [Curso de End to End Testing con Cypress](https://platzi.com/cursos/testing-cypress/)
 - [Introduction to Cypress](https://testautomationu.applitools.com/cypress-tutorial/)
 - [Test Automation met Cypress](https://training.xebia.com/quality-test-automation/test-automation-using-cypress)
-- [Test automation with Cypress basic](https://www.udemy.com/course/test-automation-with-cypress-basic/)
 - [Test automation with Cypress (intermediate)](https://www.udemy.com/course/test-automation-with-cypress-intermediate/)
+- [Test automation with Cypress basic](https://www.udemy.com/course/test-automation-with-cypress-basic/)
+- [Test Production Ready Apps with Cypress](https://egghead.io/courses/test-production-ready-apps-with-cypress)
 - [Testes automatizados com Cypress (básico)](https://www.udemy.com/course/testes-automatizados-com-cypress-basico/)
 - [Testes automatizados com Cypress (intermediário)](https://www.udemy.com/course/testes-automatizados-com-cypress-intermediario/)
-- [Test Production Ready Apps with Cypress](https://egghead.io/courses/test-production-ready-apps-with-cypress)
 
 ### Plugins
 
@@ -122,28 +122,28 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 
 ### Screencasts
 
-- [Running Cypress.io off the Command Line](https://www.youtube.com/watch?v=Eprov0EKRfQ).
+- [Automated and Manual Accessibility Testing with Marcy Sutton](https://www.youtube.com/watch?v=IADSsClWVtA)
+- [CircleCI + Cypress.io: End to end testing made easy](https://www.youtube.com/watch?v=J-xbNtKgXfY)
+- [Cypress + Cucumber Automated Browser Testing stream 02](https://www.youtube.com/watch?v=JNYia3gHCc4)
+- [Cypress End-to-End Testing](https://www.youtube.com/watch?v=7N63cMKosIE)
+- [Cypress: cómo mantener el amor tras las primeras citas](https://www.youtube.com/watch?v=LlF6VhAAm7g)
+- [Cypress.io - Automatización al siguiente nivel - Didier Corrales](https://www.youtube.com/watch?v=9IVA2HTtlL0)
+- [Cypress.io React TodoMVC test](https://www.youtube.com/watch?v=nq_WRILIFTw)
+- [End to End Testing a Web Application using Cypress](https://www.youtube.com/watch?v=woI490HRM34)
+- [Fun and Fast End to End Testing Using Cypress](https://www.youtube.com/watch?v=zpn0f4sKUNw)
 - [GeeCON 2019: Dmitry Vinnik - Modern Web Testing: Going Beyond Selenium](https://www.youtube.com/watch?v=1m2AcmiEdpI).
-- [Cypress.io - Automatización al siguiente nivel - Didier Corrales](https://www.youtube.com/watch?v=9IVA2HTtlL0) - ES.
-- [Cypress + Cucumber Automated Browser Testing stream 02](https://www.youtube.com/watch?v=JNYia3gHCc4) - EN.
-- [Preparing Angular Cypress End to End Tests for Continuous Integration (CI)](https://www.youtube.com/watch?v=WOCrIhqk7Js) - EN.
-- [Problemas, ventajas y retos del Test end to end con Cypress.io](https://www.youtube.com/watch?v=rA_1fPa38Tg) - EN.
-- [TP Vlog 12 - Cypress io, instalacja, konfiguracja, pierwsze testy](https://www.youtube.com/watch?v=WvmGRZNw6j8&t=1s) - PL.
-- [Fun and Fast End to End Testing Using Cypress](https://www.youtube.com/watch?v=zpn0f4sKUNw) - EN.
-- [Cypress: cómo mantener el amor tras las primeras citas](https://www.youtube.com/watch?v=LlF6VhAAm7g) - ES.
-- [End to End Testing a Web Application using Cypress](https://www.youtube.com/watch?v=woI490HRM34) - EN.
-- [Working with XHR in Web app automation testing with Cypress.io](https://www.youtube.com/watch?v=JNYia3gHCc4) - EN.
-- [Automated and Manual Accessibility Testing with Marcy Sutton](https://www.youtube.com/watch?v=IADSsClWVtA) - EN.
-- [ngHouston - Intro to Cypress w/ Jesse Sanders](https://www.youtube.com/watch?v=tM2KRTE3F6Y) - EN.
-- [How to write tests for your Gatsby sites and apps](https://www.twitch.tv/jlengstorf) - EN.
-- [My Cypress Workflow](https://www.youtube.com/channel/UCt7yOnL7bI7yCa1Xe_GTjJQ) - EN.
-- [CircleCI + Cypress.io: End to end testing made easy](https://www.youtube.com/watch?v=J-xbNtKgXfY) - EN.
-- [Get the latest updates from Cypress](https://www.youtube.com/watch?v=FfqD1ExUGlw) - EN.
-- [Cypress End-to-End Testing](https://www.youtube.com/watch?v=7N63cMKosIE) - EN.
-- [Cypress.io React TodoMVC test](https://www.youtube.com/watch?v=nq_WRILIFTw) - EN.
-- [Tests fonctionnels avec Cypress](https://www.youtube.com/watch?v=CC-1i0bMIoA) - FR.
-- [Testing hyperapp with Cypress](https://www.youtube.com/watch?v=w8liCoPsDIU) - EN.
+- [Get the latest updates from Cypress](https://www.youtube.com/watch?v=FfqD1ExUGlw)
+- [How to write tests for your Gatsby sites and apps](https://www.twitch.tv/jlengstorf)
+- [My Cypress Workflow](https://www.youtube.com/channel/UCt7yOnL7bI7yCa1Xe_GTjJQ)
+- [ngHouston - Intro to Cypress w/ Jesse Sanders](https://www.youtube.com/watch?v=tM2KRTE3F6Y)
+- [Preparing Angular Cypress End to End Tests for Continuous Integration (CI)](https://www.youtube.com/watch?v=WOCrIhqk7Js)
+- [Problemas, ventajas y retos del Test end to end con Cypress.io](https://www.youtube.com/watch?v=rA_1fPa38Tg)
+- [Running Cypress.io off the Command Line](https://www.youtube.com/watch?v=Eprov0EKRfQ).
+- [Testing hyperapp with Cypress](https://www.youtube.com/watch?v=w8liCoPsDIU)
+- [Tests fonctionnels avec Cypress](https://www.youtube.com/watch?v=CC-1i0bMIoA)
+- [TP Vlog 12 - Cypress io, instalacja, konfiguracja, pierwsze testy](https://www.youtube.com/watch?v=WvmGRZNw6j8&t=1s)
 - [Using Cypress for end-to-end testing with Gleb Bahmutov](https://www.youtube.com/watch?v=zTHQqiu_y0Q).
+- [Working with XHR in Web app automation testing with Cypress.io](https://www.youtube.com/watch?v=JNYia3gHCc4)
 
 ### Webinars
 
