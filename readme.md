@@ -86,10 +86,6 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 - [Cypress Svelte unit test](https://github.com/bahmutov/cypress-svelte-unit-test) - Test Svelte components using Cypress Test Runner.
 - [Cypress Vue unit test](https://github.com/bahmutov/cypress-vue-unit-test) - Test Vue.js components using Cypress Test Runner.
 
-#### Utilities
-
-- [Cypress terminal report](https://github.com/archfz/cypress-terminal-report)
-
 #### Visual Testing
 
 - [Applitools](https://applitools.com/tutorials/cypress.html)
@@ -102,6 +98,21 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 - [Micoo](https://github.com/Mikuu/Micoo/tree/master/clients/micoocypress)
 - [Percy](https://docs.percy.io/docs/cypress)
 - [Visual Regression Tracker](https://github.com/Visual-Regression-Tracker/agent-cypress)
+
+#### Reporting
+
+- [Autoset status cypress testrail reporter](https://github.com/dkuznetsov21/autoset-status-cypress-testrail-reporter)
+- [Cypress Allure Plugin](https://github.com/Shelex/cypress-allure-plugin)
+- [Cypress failed log](https://github.com/bahmutov/cypress-failed-log)
+- [Cypress Health Check](https://github.com/bdimitrovski/cypress-healthcheck)
+- [Cypress log to output](https://github.com/flotwig/cypress-log-to-output)
+- [Cypress Mochawesome reporter](https://github.com/LironEr/cypress-mochawesome-reporter)
+- [Cypress Msteams reporter](https://github.com/maritome/cypress-msteams-reporter)
+- [Cypress Slack Reporter](https://github.com/you54f/cypress-slack-reporter)
+- [Cypress teamcity reporter](https://github.com/prma85/cypress-teamcity-reporter)
+- [Cypress terminal report](https://github.com/archfz/cypress-terminal-report)
+- [Cypress testrail reporter](https://github.com/Vivify-Ideas/cypress-testrail-reporter)
+- [Mochawesome merge](https://github.com/antontelesh/mochawesome-merge)
 
 ### Containers
 
