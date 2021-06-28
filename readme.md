@@ -86,6 +86,8 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 - [Cypress Vue unit test](https://github.com/bahmutov/cypress-vue-unit-test) - Test Vue.js components using Cypress Test Runner.
 
 #### Utilities
+
+- [Cypress Plugin Snapshots](https://github.com/meinaart/cypress-plugin-snapshots)
 - [Cypress terminal report](https://github.com/archfz/cypress-terminal-report)
 
 ### Containers
