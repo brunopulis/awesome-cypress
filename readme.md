@@ -26,6 +26,7 @@
       - [Authentication](#authentication)
       - [Component Testing](#component-testing)
       - [Utilities](#utilities)
+      - [Visual Testing](#visual-testing)
     - [Containers](#containers)
     - [Blogs](#blogs)
     - [Talks](#talks)
@@ -87,8 +88,20 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 
 #### Utilities
 
-- [Cypress Plugin Snapshots](https://github.com/meinaart/cypress-plugin-snapshots)
 - [Cypress terminal report](https://github.com/archfz/cypress-terminal-report)
+
+#### Visual Testing
+
+- [Applitools](https://applitools.com/tutorials/cypress.html)
+- [Cypress Blink Test](https://github.com/PatrickWalker/cypress-visual-regression)
+- [Cypress Image Diff](https://github.com/uktrade/cypress-image-diff)
+- [Cypress Image Snapshot](https://github.com/palmerhq/cypress-image-snapshot)
+- [Cypress Plugin Snapshots](https://github.com/meinaart/cypress-plugin-snapshots)
+- [Cypress Visual Regression](https://github.com/mjhea0/cypress-visual-regression)
+- [Happo](https://github.com/happo/happo-cypress)
+- [Micoo](https://github.com/Mikuu/Micoo/tree/master/clients/micoocypress)
+- [Percy](https://docs.percy.io/docs/cypress)
+- [Visual Regression Tracker](https://github.com/Visual-Regression-Tracker/agent-cypress)
 
 ### Containers
 
