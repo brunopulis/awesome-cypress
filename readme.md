@@ -50,6 +50,7 @@ Official references of Cypress.
 - [Cypress Essencial Minmap](https://github.com/samlucax/cypress-essencial-mindmap) - An open-source mindmap with essentials tools - [Samuel Lucas](https://github.com/samlucax);
 - [Cypress Parallel Specs Locally](https://github.com/Shelex/cypress-parallel-specs-locally) - About
 - [Cypress Wait Until](https://github.com/NoriSte/cypress-wait-until) - Adds waiting power to virtually everything. Use this plugin to wait for everything not expected by [Cypress wait](https://docs.cypress.io/api/commands/wait.html#Syntax) - [Stefano Magni](https://github.com/NoriSte).
+- [Moon](https://aerokube.com/moon/) - Platform for remote parallel Cypress tests execution working in Kubernetes cluster.
 - [Sorry Cypress](https://github.com/agoldis/sorry-cypress/) - An open-source alternative to cypress dashboard - [Andrew Goldis](https://github.com/agoldis);
 Script for parallel Cypress specs execution locally - [Shelex Oleksandr Shevtsov](https://github.com/Shelex/)
 
