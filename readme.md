@@ -87,6 +87,10 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 - [Cypress Svelte unit test](https://github.com/bahmutov/cypress-svelte-unit-test) - Test Svelte components using Cypress Test Runner.
 - [Cypress Vue unit test](https://github.com/bahmutov/cypress-vue-unit-test) - Test Vue.js components using Cypress Test Runner.
 
+#### Forms
+
+- [Cypress Forms Commands](https://github.com/SamuelTrottier/cypress-forms-commands) - Easier form filling and validation
+
 #### Visual Testing
 
 - [Applitools](https://applitools.com/tutorials/cypress.html)
