@@ -54,6 +54,8 @@ Official references of Cypress.
 - [Moon](https://aerokube.com/moon/) - Platform for remote parallel Cypress tests execution working in Kubernetes cluster.
 - [Sorry Cypress](https://github.com/agoldis/sorry-cypress/) - An open-source alternative to cypress dashboard - [Andrew Goldis](https://github.com/agoldis);
 Script for parallel Cypress specs execution locally - [Shelex Oleksandr Shevtsov](https://github.com/Shelex/)
+- [Cypress Dark](https://github.com/bahmutov/cypress-dark) - Dark and Halloween color themes for Cypress.io test runner - [Gleb Bahmutov](https://github.com/bahmutov);
+
 
 
 ### Courses
