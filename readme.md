@@ -47,6 +47,7 @@ Official references of Cypress.
 ### Tools
 
 - [Cypress Commands](https://github.com/Lakitna/cypress-commands) - A collection of Cypress commands to extend and complement the defaults;
+- [Cypress Dark](https://github.com/bahmutov/cypress-dark) - Dark and Halloween color themes for Cypress.io test runner - [Gleb Bahmutov](https://github.com/bahmutov);
 - [Cypress Essencial Minmap](https://github.com/samlucax/cypress-essencial-mindmap) - An open-source mindmap with essentials tools - [Samuel Lucas](https://github.com/samlucax);
 - [Cypress Parallel Specs Locally](https://github.com/Shelex/cypress-parallel-specs-locally) - About
 - [Cypress Utils](https://github.com/trentrand/cypress-utils) - CLI tool to easily parallelize and stress-test your Cypress tests
@@ -54,7 +55,7 @@ Official references of Cypress.
 - [Moon](https://aerokube.com/moon/) - Platform for remote parallel Cypress tests execution working in Kubernetes cluster.
 - [Sorry Cypress](https://github.com/agoldis/sorry-cypress/) - An open-source alternative to cypress dashboard - [Andrew Goldis](https://github.com/agoldis);
 Script for parallel Cypress specs execution locally - [Shelex Oleksandr Shevtsov](https://github.com/Shelex/)
-- [Cypress Dark](https://github.com/bahmutov/cypress-dark) - Dark and Halloween color themes for Cypress.io test runner - [Gleb Bahmutov](https://github.com/bahmutov);
+
 
 
 
