@@ -25,14 +25,16 @@
     - [Plugins](#plugins)
       - [Authentication](#authentication)
       - [Component Testing](#component-testing)
-      - [Utilities](#utilities)
+      - [Forms](#forms)
       - [Visual Testing](#visual-testing)
+      - [Reporting](#reporting)
     - [Containers](#containers)
     - [Blogs](#blogs)
     - [Talks](#talks)
     - [Podcasts](#podcasts)
     - [Screencasts](#screencasts)
     - [Webinars](#webinars)
+    - [Examples](#examples)
 
 ### Official
 
@@ -192,3 +194,8 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 - [How Siemens SW Hub increased their test productivity by 38% with Cypress](https://www.youtube.com/watch?v=aMPkaLOpyns) - [Slides](https://slides.com/bahmutov/circleci-cypress-orb).
 - [SaltStack's QA Turnaround Using Cypress.io](https://www.youtube.com/watch?v=8iBna-2gIzM)
 - [Spotahome´s Test-First Engineering Culture Using Cypress](https://www.youtube.com/watch?v=3YODposgH5A)
+
+### Examples
+
+- [Cypress for Everything 🤩: testing SEO, Http Redirects, Logins, Sitemaps and more!](https://github.com/riccardogiorato/cypress-for-everything)
+- [Cypress recipes for common scenarios](https://github.com/cypress-io/cypress-example-recipes)
