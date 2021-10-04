@@ -141,7 +141,6 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 
 - [Assert(js) panel: Kent C. Dodds, Justin Searls, Gleb Bahmutov and Brian Mann](https://www.youtube.com/watch?v=ltzNIOF_L3E&feature=youtu.be) - Published on [#hashbang](https://www.youtube.com/playlist?list=PLZ66c9_z3umOuPSGsTu3mfzt6PGZeUyQZ).
 - [Big Testing in JavaScript](https://frontside.com/podcast/090-big-testing-in-java-script/) - Published on [The Frontside Podcast](https://frontside.com/blog)
-- [Cypress.io and End-to-End Testing with Gleb Bahmutov](https://devchat.tv/adv-in-angular/aia-155-cypress-io-end-end-testing-gleb-bahmutov/) - Published on [Adventures in Angular](https://devchat.tv/adv-in-angular).
 - [Cypress.io Hot Seat Questions with Gleb Bahmutov](https://www.joecolantonio.com/testtalks/256-gleb-bahmutov/) - Published on [TestTalks](https://joecolantonio.com/testtalks/).
 - [Cypress.io](https://devchat.tv/js-jabber/224-jsj-cypress-js-with-brian-mann/) - Published on [JavaScript Jabber](https://devchat.tv/podcasts/js-jabber/)
 - [Cypress.io](https://thewebplatformpodcast.com/164-cypressio) - Published on [The Web Platform Podcast](https://thewebplatformpodcast.com/)
@@ -150,7 +149,6 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 - [Episode 3: Dan Wahlin on End to End Testing with Cypress.io](https://realtalkjavascript.simplecast.fm/e03e32ef) - Published on [Real Talk JavaScript](https://realtalkjavascript.simplecast.fm/).
 - [JavaScript Testing Using Jest with Kent C. Dodds](https://testguild.com/podcasts/automation/195-javascript-testing-using-jest-with-kent-c-dodds/) - Published on [TestTalks](https://joecolantonio.com/testtalks/).
 - [Test all the things with Cypress](https://javascriptair.com/episodes/2016-09-21/) - Published on [JavaScript Air](https://javascriptair.com/).
-- [Test Automation Using Cypress.io with Brian Mann & Gleb Bahmutov](https://testguild.com/podcasts/automation/177-cyrpress-io-brian-mann-gleb-bahmutov/) - Published on [TestTalks](https://joecolantonio.com/testtalks/).
 - [Testing in JavaScript with Gil Tayar](https://devchat.tv/js-jabber/jsj-341-testing-in-javascript-with-gil-tayar/) - Published on [JavaScript Jabber](https://devchat.tv/js-jabber).
 - [This.JavaScript: State of Testing](https://www.youtube.com/watch?v=iycQpCFBASE) - Published on [This Dot](https://www.thisdot.co/).
 - [Using Cypress for end-to-end testing with Gleb Bahmutov](https://www.youtube.com/watch?v=zTHQqiu_y0Q&list=PLkp6BbeMCOm3TYAIPYkv1R8ESme8xlHVV&index=4) - Published [Developer small talk](https://www.youtube.com/playlist?list=PLkp6BbeMCOm3TYAIPYkv1R8ESme8xlHVV).
