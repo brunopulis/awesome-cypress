@@ -51,7 +51,7 @@ Official references of Cypress.
 - [Cypress Commands](https://github.com/Lakitna/cypress-commands) - A collection of Cypress commands to extend and complement the defaults;
 - [Cypress Dark](https://github.com/bahmutov/cypress-dark) - Dark and Halloween color themes for Cypress.io test runner - [Gleb Bahmutov](https://github.com/bahmutov);
 - [Cypress Essencial Minmap](https://github.com/samlucax/cypress-essencial-mindmap) - An open-source mindmap with essentials tools - [Samuel Lucas](https://github.com/samlucax);
-- [Cypress Learning Checklist](https://github.com/samlucax/cypress-learning-checklist)
+- [Cypress Learning Checklist](https://github.com/samlucax/cypress-learning-checklist) - Accelerate your Cypress learning by prioritizing what to study first - [Samuel Lucas](https://github.com/samlucax)
 - [Cypress Parallel Specs Locally](https://github.com/Shelex/cypress-parallel-specs-locally) - About
 - [Cypress Utils](https://github.com/trentrand/cypress-utils) - CLI tool to easily parallelize and stress-test your Cypress tests
 - [Cypress Wait Until](https://github.com/NoriSte/cypress-wait-until) - Adds waiting power to virtually everything. Use this plugin to wait for everything not expected by [Cypress wait](https://docs.cypress.io/api/commands/wait.html#Syntax) - [Stefano Magni](https://github.com/NoriSte).
