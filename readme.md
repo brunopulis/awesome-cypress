@@ -64,6 +64,7 @@ Script for parallel Cypress specs execution locally - [Shelex Oleksandr Shevtsov
 Online courses from that teach end-to-end testing with Cypress over multiple videos. Note: Some of the courses require payment from their website.
 
 - [Curso de End to End Testing con Cypress](https://platzi.com/cursos/testing-cypress/)
+- [Cypress Modern Automation Testing from Scratch + Frameworks](https://www.udemy.com/course/cypress-tutorial/)
 - [Introduction to Cypress](https://testautomationu.applitools.com/cypress-tutorial/)
 - [Test Automation met Cypress](https://training.xebia.com/quality-test-automation/test-automation-using-cypress)
 - [Test automation with Cypress (intermediate)](https://www.udemy.com/course/test-automation-with-cypress-intermediate/)
