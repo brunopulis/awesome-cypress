@@ -51,6 +51,7 @@ Official references of Cypress.
 - [Cypress Commands](https://github.com/Lakitna/cypress-commands) - A collection of Cypress commands to extend and complement the defaults;
 - [Cypress Dark](https://github.com/bahmutov/cypress-dark) - Dark and Halloween color themes for Cypress.io test runner - [Gleb Bahmutov](https://github.com/bahmutov);
 - [Cypress Essencial Minmap](https://github.com/samlucax/cypress-essencial-mindmap) - An open-source mindmap with essentials tools - [Samuel Lucas](https://github.com/samlucax);
+- [Cypress Fiddle](https://github.com/cypress-io/cypress-fiddle)
 - [Cypress Learning Checklist](https://github.com/samlucax/cypress-learning-checklist) - Accelerate your Cypress learning by prioritizing what to study first - [Samuel Lucas](https://github.com/samlucax)
 - [Cypress Local Https](https://github.com/bahmutov/cypress-local-https)
 - [Cypress Parallel Specs Locally](https://github.com/Shelex/cypress-parallel-specs-locally) - About
