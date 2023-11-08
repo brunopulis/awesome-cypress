@@ -60,7 +60,7 @@ Official references of Cypress.
 - [DeploySentinel](https://deploysentinel.com/) - `cypress open` for your CI. Eliminate flaky Cypress tests with DOM, network and console log captures from CI - [Mike Shi](https://github.com/MikeShi42)
 - [Moon](https://aerokube.com/moon/) - Platform for remote parallel Cypress tests execution working in Kubernetes cluster.
 - [Sorry Cypress](https://github.com/agoldis/sorry-cypress/) - An open-source alternative to cypress dashboard - [Andrew Goldis](https://github.com/agoldis);
-Script for parallel Cypress specs execution locally - [Shelex Oleksandr Shevtsov](https://github.com/Shelex/)
+  Script for parallel Cypress specs execution locally - [Shelex Oleksandr Shevtsov](https://github.com/Shelex/)
 - [Specut](https://github.com/henryruhs/specut) - Cut massive test suites into equal chunks.
 
 ### Courses
@@ -79,14 +79,14 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 
 ### Plugins
 
-#### Authentication 
+#### Authentication
 
 - [Cypress Keycloak Commands](https://github.com/Fredx87/cypress-keycloak-commands) - Cypress commands for authenticate users with Keycloak Identity Provider.
 - [Cypress NTLM Auth](https://github.com/bjowes/cypress-ntlm-auth) - NTLM authentication support for Cypress.
 - [Cypress OTP](https://github.com/NoriSte/cypress-otp) - Valid OTP token generation for Cypress.
 - [Cypress Social Logins](https://github.com/lirantal/cypress-social-logins) - Cypress authentication flows using social network providers.
 
-#### Component Testing 
+#### Component Testing
 
 - [Cypress Angular Unit Test](https://github.com/bahmutov/cypress-angular-unit-test) - Test Angular component using Cypress Test Runner.
 - [Cypress Angular Unit Test](https://github.com/bahmutov/cypress-angularjs-unit-test) - Unit test Angularjs code using Cypress Test Runner.
@@ -126,6 +126,7 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 - [Cypress teamcity reporter](https://github.com/prma85/cypress-teamcity-reporter)
 - [Cypress terminal report](https://github.com/archfz/cypress-terminal-report)
 - [Cypress testrail reporter](https://github.com/Vivify-Ideas/cypress-testrail-reporter)
+- [Cypress testomatio reporter](https://github.com/testomatio/reporter/blob/master/docs/frameworks.md#Cypress)
 - [Mochawesome merge](https://github.com/antontelesh/mochawesome-merge)
 
 ### Containers
