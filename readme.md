@@ -112,6 +112,7 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 - [Micoo](https://github.com/Mikuu/Micoo/tree/master/clients/micoocypress)
 - [Percy](https://docs.percy.io/docs/cypress)
 - [Visual Regression Tracker](https://github.com/Visual-Regression-Tracker/agent-cypress)
+- [Wopee](https://github.com/autonomous-testing/wopee.cy) - Visual regression testing plugin for Cypress by Wopee.io. Autonomous test maintenance with AI-powered healing.
 
 #### Reporting
 
