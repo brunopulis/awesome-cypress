@@ -59,6 +59,7 @@ Official references of Cypress.
 - [Cypress Wait Until](https://github.com/NoriSte/cypress-wait-until) - Adds waiting power to virtually everything. Use this plugin to wait for everything not expected by [Cypress wait](https://docs.cypress.io/api/commands/wait.html#Syntax) - [Stefano Magni](https://github.com/NoriSte).
 - [DeploySentinel](https://deploysentinel.com/) - `cypress open` for your CI. Eliminate flaky Cypress tests with DOM, network and console log captures from CI - [Mike Shi](https://github.com/MikeShi42)
 - [Moon](https://aerokube.com/moon/) - Platform for remote parallel Cypress tests execution working in Kubernetes cluster.
+- [skipper](https://github.com/get-skipper/skipper) - Real-time test execution control via Google Spreadsheet, enabling instant toggle without code changes.
 - [Sorry Cypress](https://github.com/agoldis/sorry-cypress/) - An open-source alternative to cypress dashboard - [Andrew Goldis](https://github.com/agoldis);
   Script for parallel Cypress specs execution locally - [Shelex Oleksandr Shevtsov](https://github.com/Shelex/)
 - [Specut](https://github.com/henryruhs/specut) - Cut massive test suites into equal chunks.
