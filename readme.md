@@ -21,6 +21,7 @@
   - [Contents](#contents)
     - [Official](#official)
     - [Tools](#tools)
+    - [Complementary QA Tools](#complementary-qa-tools)
     - [Courses](#courses)
     - [Plugins](#plugins)
       - [Authentication](#authentication)
@@ -64,6 +65,10 @@ Official references of Cypress.
   Script for parallel Cypress specs execution locally - [Shelex Oleksandr Shevtsov](https://github.com/Shelex/)
 - [Specut](https://github.com/henryruhs/specut) - Cut massive test suites into equal chunks.
 - [Testward](https://testward.app) - GitHub App that flags which Cypress specs a pull request will break — at review time, even when the specs live in a separate repo.
+
+### Complementary QA Tools
+
+- [Agent QA](https://github.com/vostride/agent-qa) - Open-source, self-improving QA agent for software teams. It runs natural-language web and mobile tests, keeps persistent testing context, and self-heals tests as applications change.
 
 ### Courses
 
