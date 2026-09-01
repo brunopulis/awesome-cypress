@@ -130,6 +130,7 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 - [Cypress log to output](https://github.com/flotwig/cypress-log-to-output)
 - [Cypress Mochawesome reporter](https://github.com/LironEr/cypress-mochawesome-reporter)
 - [Cypress Msteams reporter](https://github.com/maritome/cypress-msteams-reporter)
+- [Cypress Qualflare reporter](https://github.com/Qualflare/qualflare-cypress) - Writes a standardized report directory for upload by the Qualflare CLI, making no network calls during the run.
 - [Cypress Slack Reporter](https://github.com/you54f/cypress-slack-reporter)
 - [Cypress teamcity reporter](https://github.com/prma85/cypress-teamcity-reporter)
 - [Cypress terminal report](https://github.com/archfz/cypress-terminal-report)
