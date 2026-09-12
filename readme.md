@@ -5,11 +5,11 @@
     <img src="https://cloud.githubusercontent.com/assets/1268976/20607953/d7ae489c-b24a-11e6-9cc4-91c6c74c5e88.png" width="500" />
   </div>
   <br>
-	<br>
-	<br>
-	<a href="https://awesome.re">
-		<img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
-	</a>
+ <br>
+ <br>
+ <a href="https://awesome.re">
+  <img src="https://awesome.re/badge-flat2.svg" alt="Awesome">
+ </a>
 
   <p>A curated list of delightful Cypress</p>
   <p>Contributions welcome! Read the <a href="contributing.md">contribution guidelines</a> first.</p>
@@ -30,6 +30,7 @@
       - [Visual Testing](#visual-testing)
       - [Reporting](#reporting)
     - [Containers](#containers)
+    - [People to follow](#people-to-follow)
     - [Blogs](#blogs)
     - [Talks](#talks)
     - [Podcasts](#podcasts)
@@ -142,6 +143,10 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 ### Containers
 
 - [Cypress Docker images](https://github.com/cypress-io/cypress-docker-images) - Docker images with Cypress dependencies and browsers.
+
+### People to follow
+
+- [Walmyr Filho](https://talkingabouttesting.com)
 
 ### Blogs
 
