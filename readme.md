@@ -27,6 +27,7 @@
       - [Authentication](#authentication)
       - [Component Testing](#component-testing)
       - [Forms](#forms)
+      - [Mobile Testing](#mobile-testing)
       - [Visual Testing](#visual-testing)
       - [Reporting](#reporting)
     - [Containers](#containers)
@@ -109,6 +110,10 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 #### Forms
 
 - [Cypress Forms Commands](https://github.com/SamuelTrottier/cypress-forms-commands) - Easier form filling and validation
+
+#### Mobile Testing
+
+- [Cypress Device Emulate](https://github.com/sekharsdet/cypress-device-emulate) - Real mobile device emulation for Cypress (viewport, touch, device pixel ratio, user agent, and live orientation rotation) via the Chrome DevTools Protocol, correctly cascading through CSS media queries like `cy.viewport()` alone does not.
 
 #### Visual Testing
 
