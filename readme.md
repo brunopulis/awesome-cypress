@@ -71,6 +71,7 @@ Official references of Cypress.
 ### Complementary QA Tools
 
 - [Agent QA](https://github.com/vostride/agent-qa) - Open-source, self-improving QA agent for software teams. It runs natural-language web and mobile tests, keeps persistent testing context, and self-heals tests as applications change.
+- [loremfile](https://loremfile.dev) - Hotlinkable CC0 sample files in 78 formats with published SHA-256 hashes, for upload and download tests.
 
 ### Courses
 
