@@ -95,6 +95,7 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 - [Cypress OTP](https://github.com/NoriSte/cypress-otp) - Valid OTP token generation for Cypress.
 - [Cypress receivemail](https://github.com/flovoice53-tech/cypress-receivemail) - Commands to read verification emails from a free disposable inbox (receivemail.dev), no signup or API key.
 - [Cypress Social Logins](https://github.com/lirantal/cypress-social-logins) - Cypress authentication flows using social network providers.
+- [mailsocket](https://mailsocket.app/docs/guides/cypress/) - Inbox API to receive a test email and read the OTP or magic link from it in Cypress signup and login tests.
 
 #### Component Testing
 
