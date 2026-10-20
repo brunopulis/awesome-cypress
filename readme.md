@@ -91,6 +91,7 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 #### Authentication
 
 - [Cypress Keycloak Commands](https://github.com/Fredx87/cypress-keycloak-commands) - Cypress commands for authenticate users with Keycloak Identity Provider.
+- [Cypress Mails.ai](https://github.com/mailsai/mailsai/tree/main/packages/cypress) - Commands that give each test its own email address and wait for the verification code or magic link from your app.
 - [Cypress NTLM Auth](https://github.com/bjowes/cypress-ntlm-auth) - NTLM authentication support for Cypress.
 - [Cypress OTP](https://github.com/NoriSte/cypress-otp) - Valid OTP token generation for Cypress.
 - [Cypress receivemail](https://github.com/flovoice53-tech/cypress-receivemail) - Commands to read verification emails from a free disposable inbox (receivemail.dev), no signup or API key.
