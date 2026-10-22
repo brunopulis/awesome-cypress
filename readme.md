@@ -71,6 +71,7 @@ Official references of Cypress.
 ### Complementary QA Tools
 
 - [Agent QA](https://github.com/vostride/agent-qa) - Open-source, self-improving QA agent for software teams. It runs natural-language web and mobile tests, keeps persistent testing context, and self-heals tests as applications change.
+- [Pathfinder Studio](https://pathfinder.aiventure-studios.com) - Windows desktop app that discovers your web app and generates Cypress tests (plus Playwright, Selenium, WebdriverIO, Puppeteer and Nightwatch). Free Community edition.
 
 ### Courses
 
