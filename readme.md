@@ -66,6 +66,7 @@ Official references of Cypress.
 - [Sorry Cypress](https://github.com/agoldis/sorry-cypress/) - An open-source alternative to cypress dashboard - [Andrew Goldis](https://github.com/agoldis);
   Script for parallel Cypress specs execution locally - [Shelex Oleksandr Shevtsov](https://github.com/Shelex/)
 - [Specut](https://github.com/henryruhs/specut) - Cut massive test suites into equal chunks.
+-  [test-inventory](https://github.com/Huldoser/test-inventory) - Extract Cypress test titles, declared states and skip reasons from source without running the suite.
 - [Testward](https://testward.app) - GitHub App that flags which Cypress specs a pull request will break — at review time, even when the specs live in a separate repo.
 
 ### Complementary QA Tools
