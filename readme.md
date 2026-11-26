@@ -60,6 +60,7 @@ Official references of Cypress.
 - [Cypress Utils](https://github.com/trentrand/cypress-utils) - CLI tool to easily parallelize and stress-test your Cypress tests
 - [Cypress Wait Until](https://github.com/NoriSte/cypress-wait-until) - Adds waiting power to virtually everything. Use this plugin to wait for everything not expected by [Cypress wait](https://docs.cypress.io/api/commands/wait.html#Syntax) - [Stefano Magni](https://github.com/NoriSte).
 - [DeploySentinel](https://deploysentinel.com/) - `cypress open` for your CI. Eliminate flaky Cypress tests with DOM, network and console log captures from CI - [Mike Shi](https://github.com/MikeShi42)
+- [Mockatoo](https://mockatoo.globalunderdog.com) - Hosted mock OAuth provider that copies the sign-in pages of Google, GitHub, Microsoft and five others, so Cypress tests can log in without real accounts, CAPTCHAs or app registration.
 - [Moon](https://aerokube.com/moon/) - Platform for remote parallel Cypress tests execution working in Kubernetes cluster.
 - [Qualflare](https://github.com/Qualflare/qualflare-cypress) - Uploads results for history-based flaky-test detection, failure clustering, and release-risk scoring.
 - [skipper](https://github.com/get-skipper/skipper) - Real-time test execution control via Google Spreadsheet, enabling instant toggle without code changes.
