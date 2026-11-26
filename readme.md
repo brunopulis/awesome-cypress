@@ -27,6 +27,7 @@
       - [Authentication](#authentication)
       - [Component Testing](#component-testing)
       - [Forms](#forms)
+      - [Mobile Testing](#mobile-testing)
       - [Visual Testing](#visual-testing)
       - [Reporting](#reporting)
     - [Containers](#containers)
@@ -60,17 +61,20 @@ Official references of Cypress.
 - [Cypress Utils](https://github.com/trentrand/cypress-utils) - CLI tool to easily parallelize and stress-test your Cypress tests
 - [Cypress Wait Until](https://github.com/NoriSte/cypress-wait-until) - Adds waiting power to virtually everything. Use this plugin to wait for everything not expected by [Cypress wait](https://docs.cypress.io/api/commands/wait.html#Syntax) - [Stefano Magni](https://github.com/NoriSte).
 - [DeploySentinel](https://deploysentinel.com/) - `cypress open` for your CI. Eliminate flaky Cypress tests with DOM, network and console log captures from CI - [Mike Shi](https://github.com/MikeShi42)
+- [Mockatoo](https://mockatoo.globalunderdog.com) - Hosted mock OAuth provider that copies the sign-in pages of Google, GitHub, Microsoft and five others, so Cypress tests can log in without real accounts, CAPTCHAs or app registration.
 - [Moon](https://aerokube.com/moon/) - Platform for remote parallel Cypress tests execution working in Kubernetes cluster.
 - [Qualflare](https://github.com/Qualflare/qualflare-cypress) - Uploads results for history-based flaky-test detection, failure clustering, and release-risk scoring.
 - [skipper](https://github.com/get-skipper/skipper) - Real-time test execution control via Google Spreadsheet, enabling instant toggle without code changes.
 - [Sorry Cypress](https://github.com/agoldis/sorry-cypress/) - An open-source alternative to cypress dashboard - [Andrew Goldis](https://github.com/agoldis);
   Script for parallel Cypress specs execution locally - [Shelex Oleksandr Shevtsov](https://github.com/Shelex/)
 - [Specut](https://github.com/henryruhs/specut) - Cut massive test suites into equal chunks.
+-  [test-inventory](https://github.com/Huldoser/test-inventory) - Extract Cypress test titles, declared states and skip reasons from source without running the suite.
 - [Testward](https://testward.app) - GitHub App that flags which Cypress specs a pull request will break — at review time, even when the specs live in a separate repo.
 
 ### Complementary QA Tools
 
 - [Agent QA](https://github.com/vostride/agent-qa) - Open-source, self-improving QA agent for software teams. It runs natural-language web and mobile tests, keeps persistent testing context, and self-heals tests as applications change.
+- [Pathfinder Studio](https://pathfinder.aiventure-studios.com) - Windows desktop app that discovers your web app and generates Cypress tests (plus Playwright, Selenium, WebdriverIO, Puppeteer and Nightwatch). Free Community edition.
 
 ### Courses
 
@@ -91,6 +95,7 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 #### Authentication
 
 - [Cypress Keycloak Commands](https://github.com/Fredx87/cypress-keycloak-commands) - Cypress commands for authenticate users with Keycloak Identity Provider.
+- [Cypress Mails.ai](https://github.com/mailsai/mailsai/tree/main/packages/cypress) - Commands that give each test its own email address and wait for the verification code or magic link from your app.
 - [Cypress NTLM Auth](https://github.com/bjowes/cypress-ntlm-auth) - NTLM authentication support for Cypress.
 - [Cypress OTP](https://github.com/NoriSte/cypress-otp) - Valid OTP token generation for Cypress.
 - [Cypress receivemail](https://github.com/flovoice53-tech/cypress-receivemail) - Commands to read verification emails from a free disposable inbox (receivemail.dev), no signup or API key.
@@ -110,6 +115,10 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 #### Forms
 
 - [Cypress Forms Commands](https://github.com/SamuelTrottier/cypress-forms-commands) - Easier form filling and validation
+
+#### Mobile Testing
+
+- [Cypress Device Emulate](https://github.com/sekharsdet/cypress-device-emulate) - Real mobile device emulation for Cypress (viewport, touch, device pixel ratio, user agent, and live orientation rotation) via the Chrome DevTools Protocol, correctly cascading through CSS media queries like `cy.viewport()` alone does not.
 
 #### Visual Testing
 
@@ -134,6 +143,7 @@ Online courses from that teach end-to-end testing with Cypress over multiple vid
 - [Cypress log to output](https://github.com/flotwig/cypress-log-to-output)
 - [Cypress Mochawesome reporter](https://github.com/LironEr/cypress-mochawesome-reporter)
 - [Cypress Msteams reporter](https://github.com/maritome/cypress-msteams-reporter)
+- [Cypress Qualflare reporter](https://github.com/Qualflare/qualflare-cypress) - Writes a standardized report directory for upload by the Qualflare CLI, making no network calls during the run.
 - [Cypress Slack Reporter](https://github.com/you54f/cypress-slack-reporter)
 - [Cypress teamcity reporter](https://github.com/prma85/cypress-teamcity-reporter)
 - [Cypress terminal report](https://github.com/archfz/cypress-terminal-report)
