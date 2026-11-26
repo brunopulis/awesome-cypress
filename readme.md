@@ -80,6 +80,7 @@ Official references of Cypress.
 
 Online courses from that teach end-to-end testing with Cypress over multiple videos. Note: Some of the courses require payment from their website.
 
+- [Software testing, test automation, and a11y courses at TAT School](https://talkingabouttesting.school)
 - [Curso de End to End Testing con Cypress](https://platzi.com/cursos/testing-cypress/)
 - [Cypress Modern Automation Testing from Scratch + Frameworks](https://www.udemy.com/course/cypress-tutorial/)
 - [Introduction to Cypress](https://testautomationu.applitools.com/cypress-tutorial/)
